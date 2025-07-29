@@ -18,7 +18,7 @@
   - MathLib.h          # Заголовочний файл з оголошеннями функцій
   - MathLib.cpp        # Реалізація всіх функцій
   - MathLib.pro
-- / - створені бібліотеки
+- lib/ - створені бібліотеки
   - libMathLib.a      # release
   - libMathLibd.a     # debug
 - MathCalculator/ - програму-калькулятор що її використовує бібліотеку
