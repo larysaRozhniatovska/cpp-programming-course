@@ -18,7 +18,7 @@
     │   └── icons.qrc
     └── docs/
         └── README.md
-##Функціональність
+## Функціональність
 
     Вибір директорії - QFileDialog
     Сканування у фоні - QThread + FileScanner
